@@ -1,0 +1,14 @@
+# Requirements for Student Management System
+# This is a simple project with minimal dependencies
+
+# For enhanced testing (optional)
+pytest>=7.0.0
+
+# For code formatting (optional)
+black>=22.0.0
+
+# For linting (optional)
+flake8>=5.0.0
+
+# Note: This project primarily uses Python standard library
+# The above dependencies are optional for enhanced development experience
